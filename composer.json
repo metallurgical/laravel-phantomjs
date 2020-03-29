@@ -51,5 +51,6 @@
             "PhantomJs": "Josh\\Component\\PhantomJs\\Facade\\PhantomJs"
         }
     }
-  }
+  },
+  "minimum-stability": "dev",
 }

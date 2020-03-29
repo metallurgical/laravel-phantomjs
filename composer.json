@@ -29,8 +29,8 @@
     }
   },
   {
-      "type": "vcs",
-      "url": "https://github.com/metallurgical/php-phantomjs"
+    "type": "vcs",
+    "url": "https://github.com/metallurgical/php-phantomjs"
   },
   "require": {
     "php": "^7.2",

@@ -28,12 +28,6 @@
       "Tests\\": "tests/"
     }
   },
-  "repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/metallurgical/php-phantomjs"
-    }
-  ],
   "require": {
     "php": "^7.2",
     "laravel/framework": "^6.0|^7.0"
